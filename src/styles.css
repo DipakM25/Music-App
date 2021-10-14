@@ -10,7 +10,12 @@
 body {
   font-family: "Raleway", sans-serif;
   margin: 0px;
-  background-color: var(--bg-color);
+  background-image: linear-gradient(
+    319deg,
+    #bbff99 20%,
+    #ffec99 37%,
+    #ff9999 100%
+  );
 }
 
 .App {
